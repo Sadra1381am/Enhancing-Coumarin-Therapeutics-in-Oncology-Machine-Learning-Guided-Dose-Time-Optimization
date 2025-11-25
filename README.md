@@ -4,7 +4,7 @@ This repository contains the complete computational pipeline for optimizing coum
 
 ## Repository Structure:
 ```
-├── Enhancing Coumarin Therapeutics in Oncology- Machine Learning-Guided Dose-Time Optimization and Experimental Validation - Code/   # All code used for this paper, including ML models and plots.
+├── Enhancing Coumarin Therapeutics in Oncology- Machine Learning-Guided Dose-Time Optimization and Experimental Validation - Code.ipynb/   # All code used for this paper, including ML models and plots.
 │
 └── Total_Data.csv/                  # Dataset
 ```
