@@ -3,6 +3,7 @@
 This repository contains the complete computational pipeline for optimizing coumarin-based cancer therapeutics using machine learning. The framework identifies optimal dose-time combinations across different cancer types to achieve target viability (≈50%) while ensuring reliability through Gaussian Mixture Model filtering.
 
 ## Repository Structure:
+```
 ├── Machine_Learning_Models/          # Core ML implementation
 │   ├── HistGradientBoostingRegressor.py
 │   ├── VotingRegressor.py           # Ensemble (CatBoost, XGBoost, LGBM)
@@ -15,6 +16,7 @@ This repository contains the complete computational pipeline for optimizing coum
 │   ├── Flowchart/                   # Workflow visualization
 │   └── Treemaps/                    # Data composition analysis
 └── Data/                            # Dataset
+```
 
 ## Key Features:
 Multi-Model Approach: Implements 4 robust ML models with cross-validation
