@@ -4,18 +4,9 @@ This repository contains the complete computational pipeline for optimizing coum
 
 ## Repository Structure:
 ```
-├── Machine_Learning_Models/          # Core ML implementation
-│   ├── HistGradientBoostingRegressor.py
-│   ├── VotingRegressor.py           # Ensemble (CatBoost, XGBoost, LGBM)
-│   ├── CatBoostRegressor.py
-│   ├── RandomForestRegressor.py
-│   └── Weighted_Median_Aggregation.py
-├── Visualization/                    # Plotting and analysis
-│   ├── Dose_Time_Regressors/        # Regression analysis per coumarin
-│   ├── Bubble_Plots/                # Dose-time-viability relationships
-│   ├── Flowchart/                   # Workflow visualization
-│   └── Treemaps/                    # Data composition analysis
-└── Data/                            # Dataset
+├── Enhancing Coumarin Therapeutics in Oncology- Machine Learning-Guided Dose-Time Optimization and Experimental Validation - Code/   # All code used for this paper, including ML models and plots.
+│
+└── Total_Data.csv/                  # Dataset
 ```
 
 ## Key Features:
